@@ -1,72 +1,43 @@
-# 👋 Hey there! I'm Alvaro — Junior Developer with Big Ambitions
+# 👋 Hi, I'm Naranjo — Junior Developer with Big Ambitions
 
-🎓 Currently a 2nd-year student in **Multiplatform Application Development (2DAM)**, passionate about building smart, scalable, and beautiful digital experiences.  
-💡 *“Every great developer was once a beginner who never gave up.”*
+🎓 2nd-year student in **Multiplatform Application Development (2DAM)**, passionate about building smart, scalable, and elegant digital solutions.  
+💡 *“Every expert was once a beginner who never gave up.”*
 
 ---
 
-## 🧠 Core Programming Languages  
-*“Code is the tool — creativity is the engine.”*
-
+## 🧠 Core Languages  
 - **Java** ☕  
-- **Kotlin** 🧬  
+- **Kotlin** 📱  
 - **C#** 🎯
 
----
-
 ## 🧰 Frameworks & Libraries  
-*“Frameworks turn ideas into reality — faster and cleaner.”*
-
 - **Angular** 🅰️  
-- **Bootstrap** 🟪 **B**  
-- **Laravel** 🔴 **L**
-
----
+- **Bootstrap** 🟪  
+- **Laravel** 🔴
 
 ## 🗄️ Databases  
-*“Structure your data, empower your logic.”*
-
 - **SQL** 🧠  
 - **MySQL** 🐬
 
----
-
 ## 🐳 DevOps & Tools  
-*“Deploy with confidence, scale with ease.”*
-
 - **Docker** 🐳  
 - **Git & GitHub** 🔧
 
----
-
-## 🌐 Front-End Technologies  
-*“Design is intelligence made visible.”*
-
+## 🌐 Front-End  
 - **HTML5** 🌐  
 - **CSS3** 🎨  
 - **JavaScript (ES6+)** ⚡
 
 ---
 
-## 🌍 Communication & Soft Skills  
-*“Tech skills open doors — communication keeps them open.”*
-
-- Fluent in **English** 🇬🇧  
-- Strong collaboration & problem-solving mindset 🤝
-
----
-
-## 📈 What I'm Working On  
-- Full-stack web apps with Angular + Laravel  
-- Exploring containerization with Docker  
-- Building clean UI with Bootstrap  
-- Strengthening backend logic with Java and Kotlin  
-- Collaborating on open-source projects
+## 🌍 Soft Skills  
+- Fluent in **English**  
+- Team-oriented & solution-driven 🤝  
+- Disciplined and deadline-focused 📅
 
 ---
 
-## 🚀 Let's Connect & Build Something Awesome  
-Feel free to explore my repositories, contribute, or reach out.  
-I’m always open to feedback, collaboration, and new challenges!
+## 🚀 Let's Build Something Great  
+Explore my projects, contribute, or connect — I'm always open to new ideas and challenges.
 
 > *“The best way to predict the future is to create it.”* — Alan Kay
