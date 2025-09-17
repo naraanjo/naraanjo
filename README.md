@@ -2,6 +2,9 @@
 
 🎓 2nd-year student in **Multiplatform Application Development (2DAM)**, passionate about building smart, scalable, and elegant digital solutions.  
 💡 *“Every expert was once a beginner who never gave up.”*
+## 📬 Contact  
+- 📧 Email: alvaro@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alvaro-naranjo-rodr%C3%ADguez-177264381/)
 
 ---
 
