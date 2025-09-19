@@ -8,12 +8,12 @@
 
 ---
 
-## 🧠 Core Languages  
+## 🧠 Languages  
 - **Java** ☕  
 - **Kotlin** 📱  
 - **C#** 🎯
 
-## 🧰 Frameworks & Libraries  
+## 🧰 Frameworks   
 - **Angular** 🅰️  
 - **Bootstrap** 🟪  
 - **Laravel** 🔴
