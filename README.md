@@ -8,7 +8,7 @@
 
 ---
 
-## 🧠 Languages  
+## 🧠 Programming languages  
 - **Java** ☕  
 - **Kotlin** 📱  
 - **C#** 🎯
