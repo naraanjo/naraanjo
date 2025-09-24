@@ -8,6 +8,15 @@
 
 ---
 
+
+## 🌍 Soft Skills  
+- Fluent in **English**  
+- Team-oriented & solution-driven 🤝  
+- Disciplined and deadline-focused 📅
+- Creative & approachable
+- Passionate about my work ❤️
+
+---
 ## 🧠 Programming languages  
 - **Java** ☕  
 - **Kotlin** 📱  
@@ -30,13 +39,6 @@
 - **HTML5** 🌐  
 - **CSS3** 🎨  
 - **JavaScript** ⚡
-
----
-
-## 🌍 Soft Skills  
-- Fluent in **English**  
-- Team-oriented & solution-driven 🤝  
-- Disciplined and deadline-focused 📅
 
 ---
 
