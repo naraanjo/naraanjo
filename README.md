@@ -10,7 +10,6 @@
 
 
 ## 🌍 Soft Skills  
-- Fluent in **English**  
 - Team-oriented & solution-driven 🤝  
 - Disciplined and deadline-focused 📅
 - Creative & approachable
