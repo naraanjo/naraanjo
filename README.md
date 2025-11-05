@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Naranjo — Desarrollador Junior con Grandes Ambiciones
+# 👋 ¡Hola! Soy Naranjo — Desarrollador Junior 
 
 🎓 Estudiante de **2º de Desarrollo de Aplicaciones Multiplataforma (2DAM)**, apasionado por crear soluciones digitales **inteligentes, escalables y elegantes**.  
 💡 *“Todo experto fue alguna vez un principiante que nunca se rindió.”*
