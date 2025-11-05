@@ -30,9 +30,10 @@
 - **SQL** 🧠  
 - **MySQL** 🐬
 
-## 🐳 DevOps & Tools  
-- **Docker** 🐳  
+## 🔧 Tools  
+
 - **Git & GitHub** 🔧
+- **Jira** 
 
 ## 🌐 Front-End  
 - **HTML5** 🌐  
@@ -40,6 +41,11 @@
 - **JavaScript** ⚡
 
 ---
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Naranjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=naraanjo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naraanjo&layout=compact&theme=tokyonight)
+
+
 
 ## 🚀 Let's Build Something Great  
 Explore my projects, contribute, or connect — I'm always open to new ideas and challenges.
