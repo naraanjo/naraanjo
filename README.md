@@ -15,8 +15,8 @@
 
 ![Trabajo en equipo](https://img.shields.io/badge/🤝_Trabajo_en_equipo-00BFA6?style=for-the-badge)  
 ![Responsabilidad](https://img.shields.io/badge/📅_Responsable_y_puntual-0078D7?style=for-the-badge)  
-![Creatividad](https://img.shields.io/badge/💡_Creatividad_y_iniciativa-FFB300?style=for-the-badge)  
-![Pasión por la tecnología](https://img.shields.io/badge/❤️_Pasión_por_la_tecnología-EA4C89?style=for-the-badge)
+![Adaptabilidad](https://img.shields.io/badge/🔄_Adaptabilidad_y_flexibilidad-FFB300?style=for-the-badge)  
+![Aprendizaje continuo](https://img.shields.io/badge/📚_Aprendizaje_continuo-8A2BE2?style=for-the-badge)
 
 ---
 
